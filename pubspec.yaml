@@ -1,0 +1,16 @@
+name: weight_on_planet_x
+description: Building application for calculating weight on planet X.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/planet.png
